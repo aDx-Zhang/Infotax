@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44885600521",
+    "project_id": "infotaxsquare-dae67",
+    "storage_bucket": "infotaxsquare-dae67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44885600521:android:1c448343193f20416dcbd8",
+        "android_client_info": {
+          "package_name": "com.infotaxsquare.lashari.info_tax_square.info_tax_square"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44885600521-jqj88skv5vmuaj1u318uh40328teshto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infotaxsquare.lashari.info_tax_square.info_tax_square",
+            "certificate_hash": "ef5987550f33199bb380d57ba0854542b852e1f3"
+          }
+        },
+        {
+          "client_id": "44885600521-1huivenma0l16pjb1endddbdqm85n357.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAojJzj7ZAxaGfq3OksWeS-XAnOrVhhDZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44885600521-1huivenma0l16pjb1endddbdqm85n357.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
